@@ -1,1 +1,2301 @@
-test1
+[
+    {
+      "attributes" : {
+        "OID" : 1,
+        "Name" : "İmam Rza",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 49.965604000000056,
+        "y" : 40.41982230000005
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 2,
+        "Name" : "Imam Cəfər Sadiq",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 50.066028300000056,
+        "y" : 40.495645000000053
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 3,
+        "Name" : "Buzovna Məsçidi",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 50.113460800000055,
+        "y" : 40.517149400000051
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 4,
+        "Name" : "Mir Mövsüm Ziya Ağa",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 50.111912600000053,
+        "y" : 40.516365200000052
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 5,
+        "Name" : "Məşədi Qərib",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 50.111832900000053,
+        "y" : 40.516860200000053
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 6,
+        "Name" : "Qaraçuxur məsçidi",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 49.973364800000056,
+        "y" : 40.402434000000049
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 7,
+        "Name" : "Mərdəkan Heydər Cümə Məsçidi",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 50.141872800000051,
+        "y" : 40.49114780000005
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 8,
+        "Name" : "Əliçıraq Məsçidi",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 49.875600500000054,
+        "y" : 40.482075300000055
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 9,
+        "Name" : "Mehdiabad məscidi",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 49.853198700000057,
+        "y" : 40.495887400000051
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 10,
+        "Name" : "Haydar Mescidi",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 49.824205400000054,
+        "y" : 40.428783700000054
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 11,
+        "Name" : "Hz.Əli Məscidi",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 49.826030000000053,
+        "y" : 40.418512500000055
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 12,
+        "Name" : "Taze Pir Camii",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 49.828670300000056,
+        "y" : 40.372254400000052
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 13,
+        "Name" : "Nərimanov rayon “Cümə” məscidi",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 49.85044440000005,
+        "y" : 40.385751800000051
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 14,
+        "Name" : "Hüseyniyyə məscidi, Bakı",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 49.849185500000054,
+        "y" : 40.390341200000051
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 15,
+        "Name" : "Əjdərbəy məscidi",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 49.837680100000057,
+        "y" : 40.385979800000051
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 16,
+        "Name" : "Heydər  Talkuçka məscidi",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 49.967935600000054,
+        "y" : 40.41201530000005
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 17,
+        "Name" : "Fatimeyi Zəhra məscidi",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 49.978771300000055,
+        "y" : 40.381266600000053
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 18,
+        "Name" : "Pir Hasan Mosque",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 50.154014900000057,
+        "y" : 40.493911000000054
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 19,
+        "Name" : "Ali Ayaghy Mosque",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 50.124349600000052,
+        "y" : 40.51875820000005
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 20,
+        "Name" : "Mir Movsum Aga Ziyaretgahi",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 50.203951000000053,
+        "y" : 40.487660900000051
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 21,
+        "Name" : "Bibiheybet Camii",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 49.820434600000056,
+        "y" : 40.30853270000005
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 22,
+        "Name" : "İlahiyat Camii",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 49.807775600000056,
+        "y" : 40.375531700000053
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 23,
+        "Name" : "Kürdəxanı məscidi",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 49.92189510000005,
+        "y" : 40.54442350000005
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 24,
+        "Name" : "Hacı Sultanəli Mescidi",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 49.829474300000051,
+        "y" : 40.37875760000005
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 25,
+        "Name" : "Hüseyniyə Məscidi",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 49.915531800000053,
+        "y" : 40.460034500000056
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 26,
+        "Name" : "Hacı Cavad Məscidi",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 49.809131400000055,
+        "y" : 40.368670300000055
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 27,
+        "Name" : "Məscid",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 49.844695000000051,
+        "y" : 40.528980700000055
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 28,
+        "Name" : "Cümə Məsçidi Maştağa",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 50.000676300000052,
+        "y" : 40.533868000000055
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 29,
+        "Name" : "Mescidi",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 49.867107700000055,
+        "y" : 40.409268400000052
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 30,
+        "Name" : "Corat cume mescidi",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 49.707825200000052,
+        "y" : 40.571806600000052
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 31,
+        "Name" : "Qobu yeni mescid",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 49.701510400000053,
+        "y" : 40.417442100000052
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 32,
+        "Name" : "Mescid",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 49.689737500000057,
+        "y" : 40.395098200000049
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 33,
+        "Name" : "Ehli Beyt Mescid",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 49.632936000000051,
+        "y" : 40.566822600000052
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 34,
+        "Name" : "Məsçid",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 48.614317200000052,
+        "y" : 40.07961470000005
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 35,
+        "Name" : "Qədim Məsçid",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 48.182687500000057,
+        "y" : 40.531062500000054
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 36,
+        "Name" : "Məsçid",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 47.573448500000055,
+        "y" : 40.515452400000051
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 37,
+        "Name" : "Məsçid",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 48.617972100000053,
+        "y" : 39.056035200000053
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 38,
+        "Name" : "məsçid",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 50.26190090000005,
+        "y" : 40.424483400000049
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 39,
+        "Name" : "məsçid",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 49.664074800000051,
+        "y" : 40.296633300000053
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 40,
+        "Name" : "Quruzma yeni məsçid",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 48.616524700000056,
+        "y" : 40.08393290000005
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 41,
+        "Name" : "İmam Hüseyn məscidi",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 50.211561800000055,
+        "y" : 40.365723100000054
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 42,
+        "Name" : "Qala kənd məscidi",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 50.165554000000057,
+        "y" : 40.43975640000005
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 43,
+        "Name" : "Şağan mecidi",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 50.130096200000054,
+        "y" : 40.496985800000054
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 44,
+        "Name" : "Bilgəh cümə məsçidi ",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 50.039300200000056,
+        "y" : 40.570930100000055
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 45,
+        "Name" : "Seyid Qədir (Cümə) məscidi",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 49.887767300000057,
+        "y" : 40.557436600000052
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 46,
+        "Name" : "Fatmayi Mosque",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 49.852184500000057,
+        "y" : 40.529840500000056
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 47,
+        "Name" : "Digah Məscidi",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 49.881516400000052,
+        "y" : 40.49186160000005
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 48,
+        "Name" : "Cümə məscidi Zabrat",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 49.954412100000056,
+        "y" : 40.486553900000054
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 49,
+        "Name" : "Hz Zeyneb Mescidi",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 49.951857900000057,
+        "y" : 40.486965100000056
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 50,
+        "Name" : "Məscidi",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 49.95334150000005,
+        "y" : 40.488758700000055
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 51,
+        "Name" : "Masazir Mosque",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 49.761957000000052,
+        "y" : 40.484111000000055
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 52,
+        "Name" : "Saray Məscidi",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 49.716753700000055,
+        "y" : 40.533096900000054
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 53,
+        "Name" : "Məçid",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 49.688749600000051,
+        "y" : 40.530643100000056
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 54,
+        "Name" : "Mushvigabad Mosque",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 49.62546760000005,
+        "y" : 40.464135900000052
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 55,
+        "Name" : "Güzdək qəsəbə məsçidi",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 49.684270500000054,
+        "y" : 40.374754700000054
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 56,
+        "Name" : "Mosque",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 49.702088100000054,
+        "y" : 40.41789610000005
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 57,
+        "Name" : "Qobu İmam Hüseyn Məscidi",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 49.715161100000053,
+        "y" : 40.409187700000054
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 58,
+        "Name" : "Lökbatan Cümə Məscidi",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 49.736692400000052,
+        "y" : 40.331638600000055
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 59,
+        "Name" : "Cuma Camii",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 49.835738200000051,
+        "y" : 40.365421100000056
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 60,
+        "Name" : "Muhammed Cami",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 49.834833000000053,
+        "y" : 40.365472800000056
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 61,
+        "Name" : "Gileyli məsçidi(1309-cu il)",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 49.832885700000055,
+        "y" : 40.364788600000054
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 62,
+        "Name" : "Qasımbəy Məscidi",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 49.832515900000054,
+        "y" : 40.372492400000056
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 63,
+        "Name" : "Xanım Fatimeyi Zəhra məscidi",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 49.831799000000053,
+        "y" : 40.374057400000055
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 64,
+        "Name" : "Səngəçal Məsçidi",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 49.461369400000052,
+        "y" : 40.167004300000052
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 65,
+        "Name" : "Şıxlar Məscidi",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 49.412736500000051,
+        "y" : 40.067019000000052
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 66,
+        "Name" : "Şamlı Məscidi",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 49.407304000000053,
+        "y" : 40.087825500000051
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 67,
+        "Name" : "Şıxlar məsçidi",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 49.404292500000054,
+        "y" : 40.084525900000052
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 68,
+        "Name" : "Yol Evi məscidi",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 49.441762400000052,
+        "y" : 40.134872200000054
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 69,
+        "Name" : "Ümid qəsəbə Məscid",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 49.508026600000051,
+        "y" : 40.197682800000052
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 70,
+        "Name" : "Kənd Əhmədli Məscidi",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 49.947974300000055,
+        "y" : 40.386124100000053
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 71,
+        "Name" : "Binəqədi Cümə Məscidi",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 49.822110900000055,
+        "y" : 40.475471300000052
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 72,
+        "Name" : "Sabunçu məscidi",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 49.952222200000051,
+        "y" : 40.444444400000052
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 73,
+        "Name" : "İrfan Məscidi",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 49.844731100000054,
+        "y" : 40.424146700000051
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 74,
+        "Name" : "Hacı Nəriman məscidi",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 49.983918900000056,
+        "y" : 40.458221600000051
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 75,
+        "Name" : "Mosque",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 49.982521600000055,
+        "y" : 40.457809500000053
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 76,
+        "Name" : "Zığ məscid",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 49.983082800000055,
+        "y" : 40.37077060000005
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 77,
+        "Name" : "Mescid",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 48.538900500000054,
+        "y" : 39.209148200000051
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 78,
+        "Name" : "Mosque Sangachal",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 49.428490600000053,
+        "y" : 40.190492000000056
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 79,
+        "Name" : "Sədərək Məscidi Musalla",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 49.779711200000051,
+        "y" : 40.322425900000056
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 80,
+        "Name" : "Mosque",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 49.693044100000051,
+        "y" : 40.577357300000052
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 81,
+        "Name" : "İmam Sadiq məscidi",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 49.651527200000054,
+        "y" : 40.605187400000055
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 82,
+        "Name" : "İslam Məscidi Şahin AbdulMəlik",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 49.639363000000053,
+        "y" : 40.586071400000051
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 83,
+        "Name" : "Ehli Beyt Mescid",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 49.632936000000051,
+        "y" : 40.566822600000052
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 84,
+        "Name" : "Mosque \"Ceyhun Hanım və Hacı Ahmet\"",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 49.658090800000053,
+        "y" : 40.545450700000053
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 85,
+        "Name" : "AHLI SUNNA - NAMAZ",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 49.528459700000056,
+        "y" : 40.653034300000051
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 86,
+        "Name" : "Atbulaq Kənd Məscidi",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 49.266372600000054,
+        "y" : 39.970416400000055
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 87,
+        "Name" : "Nəvahi kənd məscidi",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 49.099430100000056,
+        "y" : 40.040337600000051
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 88,
+        "Name" : "Fədək Restoranı",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 49.063771000000052,
+        "y" : 40.041732800000055
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 89,
+        "Name" : "QƏDİR-XUM",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 48.95365890000005,
+        "y" : 40.019999600000055
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 90,
+        "Name" : "Azpetrol Hacıqabul",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 48.850798600000054,
+        "y" : 40.080422200000051
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 91,
+        "Name" : "Muğan Məscidi",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 48.817937800000053,
+        "y" : 40.095433300000053
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 92,
+        "Name" : "Azpetrol",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 48.52766270000005,
+        "y" : 40.216093400000055
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 93,
+        "Name" : "Karrar kənd İmam Hüseyn məscidi",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 48.366135700000051,
+        "y" : 40.279745100000049
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 94,
+        "Name" : "Məscid",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 48.250284800000053,
+        "y" : 40.30489000000005
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 95,
+        "Name" : "Azpetrol YDM",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 48.152741300000052,
+        "y" : 40.335897300000056
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 96,
+        "Name" : "Təzə Şilyan Kənd Məscidi",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 47.945757400000055,
+        "y" : 40.422569600000053
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 97,
+        "Name" : "HZ. ƏBƏLFƏZ ADINA ALPOUT KƏND MƏSCİDİ",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 47.61344150000005,
+        "y" : 40.48323560000005
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 98,
+        "Name" : "Hacı Məgəmmədəli məscidi",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 47.57074850000005,
+        "y" : 40.489937300000051
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 99,
+        "Name" : "Qazıqumlaq məscidi 2",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 47.526660000000057,
+        "y" : 40.531024200000054
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 100,
+        "Name" : "Azpetrol",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 46.938432700000057,
+        "y" : 40.637177000000051
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 101,
+        "Name" : "Yarıtikili məscid",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 46.583918200000056,
+        "y" : 40.688503800000049
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 102,
+        "Name" : "Dəliməmmədli Şəhər Məscidi",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 46.576062500000056,
+        "y" : 40.690312500000054
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 103,
+        "Name" : "Qazaxlar mescidi XIX esr",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 46.341067000000052,
+        "y" : 40.661800900000053
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 104,
+        "Name" : "Qızıl Hacılı məscidi",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 46.327565400000054,
+        "y" : 40.666372600000052
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 105,
+        "Name" : "Qazaxlar mascidi",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 46.33459260000005,
+        "y" : 40.669843300000053
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 106,
+        "Name" : "Xəlfəli Məscidi",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 46.323901300000053,
+        "y" : 40.664760600000051
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 107,
+        "Name" : "Qırıqlı məscidi",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 46.329240100000057,
+        "y" : 40.66242630000005
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 108,
+        "Name" : "Şah Abbas Camii",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 46.358865000000051,
+        "y" : 40.677533600000054
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 109,
+        "Name" : "Dini cami",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 46.357562200000054,
+        "y" : 40.710220000000049
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 110,
+        "Name" : "Hz Ebelfezl Aga adina Cume mescidi",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 46.412305800000055,
+        "y" : 40.760993000000056
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 111,
+        "Name" : "Qaratala kənd məscidi",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 46.869730100000055,
+        "y" : 41.335999000000051
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 112,
+        "Name" : "Cunud,Kənd məscidi",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 47.046037700000056,
+        "y" : 41.350344300000053
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 113,
+        "Name" : "Şəhər Məscidi",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 46.782803600000051,
+        "y" : 40.598464100000051
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 114,
+        "Name" : "Nadirkənd Məscidi",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 46.627836000000052,
+        "y" : 40.654754100000055
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 115,
+        "Name" : "Yarıtikili məscid",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 46.583918200000056,
+        "y" : 40.688503800000049
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 116,
+        "Name" : "Əkbər cümə məscidi",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 46.57065730000005,
+        "y" : 40.697625600000052
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 117,
+        "Name" : "3-cü BEYNƏLMİLƏL Kənd MƏSCİDİ",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 46.081973600000055,
+        "y" : 40.828431000000052
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 118,
+        "Name" : "Düyərli məscidi",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 46.041822700000054,
+        "y" : 40.848342500000051
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 119,
+        "Name" : "İmam Əli Məscidi",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 46.023598400000054,
+        "y" : 40.829033700000053
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 120,
+        "Name" : "Məscid",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 46.021530000000055,
+        "y" : 40.829968100000052
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 121,
+        "Name" : "İmam Hasan Camii",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 50.102766000000052,
+        "y" : 40.42360000000005
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 122,
+        "Name" : "Keşlə Məscidi",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 49.895667500000052,
+        "y" : 40.392267400000051
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 123,
+        "Name" : "Çin Camii",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 49.832626900000051,
+        "y" : 40.365937700000053
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 124,
+        "Name" : "Sayyid Yahya Murtuza Mosque",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 49.835313900000052,
+        "y" : 40.364757000000054
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 125,
+        "Name" : "Imam Ali mosque",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 49.835070600000051,
+        "y" : 40.364559700000051
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 126,
+        "Name" : "Alley of Martyrs Mosque",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 49.827904700000055,
+        "y" : 40.358595700000052
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 127,
+        "Name" : "Mecid",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 47.461332100000057,
+        "y" : 40.049603600000054
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 128,
+        "Name" : "Cümə məscidi",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 50.005945500000053,
+        "y" : 40.557123000000054
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 129,
+        "Name" : "Mecid",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 49.977357300000051,
+        "y" : 40.546853400000053
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 130,
+        "Name" : "Şahnəzərli, məscid mədrəsə",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 50.006364000000055,
+        "y" : 40.55697610000005
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 131,
+        "Name" : "Rəhimə xanım məscidi",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 50.007654800000054,
+        "y" : 40.560804700000055
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 132,
+        "Name" : "Biləcəri Məscidi 2",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 49.816443800000052,
+        "y" : 40.437049100000053
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 133,
+        "Name" : "Biləcəri Məscidi",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 49.816878300000056,
+        "y" : 40.429704000000051
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 134,
+        "Name" : "Məscid Xocasən",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 49.771843200000056,
+        "y" : 40.413084700000056
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 135,
+        "Name" : "Zaman məcidi",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 44.948580400000054,
+        "y" : 39.521702000000055
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 136,
+        "Name" : "Sahib əz-Zaman Məscidi",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 49.950785100000054,
+        "y" : 40.413919800000052
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 137,
+        "Name" : "Nizam əd-Dima məscidi",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 49.986781900000054,
+        "y" : 40.419934700000056
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 138,
+        "Name" : "Keigobad Mosque",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 49.83347200000005,
+        "y" : 40.366144600000055
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 139,
+        "Name" : "Kərbəlayi Abdullah Məscidi",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 49.837127200000054,
+        "y" : 40.375273400000054
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 140,
+        "Name" : "Məşədi Dadaş məscidi",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 49.833509400000054,
+        "y" : 40.382656000000054
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 141,
+        "Name" : "Həzrəti Fatimeyi Zəhra Məscidi",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 49.574266300000055,
+        "y" : 40.224761100000052
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 142,
+        "Name" : "Ələt Qəsəbə Məscidi",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 49.407874600000056,
+        "y" : 39.954786800000051
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 143,
+        "Name" : "Cümə Məscidi",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 48.54732070000005,
+        "y" : 39.455010600000051
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 144,
+        "Name" : "Məscid",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 48.471695700000055,
+        "y" : 40.013882700000053
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 145,
+        "Name" : "Qobu İmam Əli Məscidi",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 49.711801400000056,
+        "y" : 40.398237300000055
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 146,
+        "Name" : "Şuraabad Cümə Məscidi",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 49.466445000000057,
+        "y" : 40.81494550000005
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 147,
+        "Name" : "Qızıldaş Məscidi",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 49.594005100000054,
+        "y" : 40.305740300000053
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 148,
+        "Name" : "Həzrəti Əli məsçidi",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 49.140812500000052,
+        "y" : 40.016312500000055
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 149,
+        "Name" : "Hökməli Köhnə Məscid",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 49.736400200000055,
+        "y" : 40.430206500000054
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 150,
+        "Name" : "Göy məscid (Zabrat qəsəbə məscidi)",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 49.954143000000052,
+        "y" : 40.485859000000055
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 151,
+        "Name" : "Hacı Şəhla məscidi",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 49.922866500000055,
+        "y" : 40.460433900000055
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 152,
+        "Name" : "Bülbülə Cümə Məscidi",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 49.977779700000056,
+        "y" : 40.431932900000049
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 153,
+        "Name" : "Məscid",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 50.006907400000053,
+        "y" : 40.531886400000054
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 154,
+        "Name" : "Xanım Zəhra Məscidi",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 50.035072900000053,
+        "y" : 40.570122700000056
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 155,
+        "Name" : "Əbdül Məscidi",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 50.031569000000054,
+        "y" : 40.571666900000054
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 156,
+        "Name" : "Əbəlfəz Ağa məscidi",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 50.031443300000056,
+        "y" : 40.546790600000051
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 157,
+        "Name" : "Hacı Baxşı məscidi",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 50.007981600000051,
+        "y" : 40.559312100000049
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 158,
+        "Name" : "Ağa məscidi",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 50.004985500000053,
+        "y" : 40.559008600000055
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 159,
+        "Name" : "Fatıməyi Zəhra məscidi",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 49.994191300000054,
+        "y" : 40.58739920000005
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 160,
+        "Name" : "Murtuza Mukhtarov mosque",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 49.985357400000055,
+        "y" : 40.421996900000053
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 161,
+        "Name" : "deqiqlesdir_mesciddir_yayox",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 50.036465800000052,
+        "y" : 40.428802700000055
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 162,
+        "Name" : "Mirtağı Məscidi",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 49.966557300000055,
+        "y" : 40.359246500000054
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 163,
+        "Name" : "\u200BZirə Cümə məscidi",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 50.296664400000054,
+        "y" : 40.364316900000055
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 164,
+        "Name" : "Əli Qədəmgahı(Zığ)",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 49.978708100000055,
+        "y" : 40.370460800000053
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 165,
+        "Name" : "Məscid",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 50.097879200000051,
+        "y" : 40.450052600000049
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 166,
+        "Name" : "Kənd Binə.",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 50.076078100000053,
+        "y" : 40.454637500000054
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 167,
+        "Name" : "dəqiqləşdirMəşədi Kazım Məscidi",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 50.100866000000053,
+        "y" : 40.457772900000052
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 168,
+        "Name" : "deqiqlesdir",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 50.103755600000056,
+        "y" : 40.439512400000055
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 169,
+        "Name" : "Binə Əbəlfəz aga məscidi",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 50.120409400000057,
+        "y" : 40.416602100000055
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 170,
+        "Name" : "Hüseyniyyə",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 50.219639000000051,
+        "y" : 40.49278160000005
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 171,
+        "Name" : "Zirə Məscidi",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 50.292706300000056,
+        "y" : 40.376896800000054
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 172,
+        "Name" : "arasdir Məscid",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 50.239875700000056,
+        "y" : 40.421028300000053
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 173,
+        "Name" : "Qoşaqışlaq məscidi",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 50.262096900000053,
+        "y" : 40.426574200000054
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 174,
+        "Name" : "Buzovna qəsəbə İmam Hüseyn məscidi",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 50.110981800000054,
+        "y" : 40.520643000000049
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 175,
+        "Name" : "\"Sahib əz-Zaman\" məscidi",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 50.115263800000051,
+        "y" : 40.514353800000052
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 176,
+        "Name" : "arasdirNazrani məscidi (İmam Həsən (ə.s.) məscidi)",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 50.096919100000051,
+        "y" : 40.515287800000053
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 177,
+        "Name" : "Buzovna İmam Huseyn Mescidi",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 50.071378700000054,
+        "y" : 40.517719800000052
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 178,
+        "Name" : "Hüseyin Məscidi",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 49.826320800000055,
+        "y" : 40.369490800000051
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 179,
+        "Name" : "Şah Hüseyn məscidi, Qədirli küçəsi",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 49.822607600000055,
+        "y" : 40.376270000000055
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 180,
+        "Name" : "Suraxanı Məscidi",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 50.033124400000055,
+        "y" : 40.431470000000054
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 181,
+        "Name" : "Xırdalan Cümə Məscidi",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 49.756140600000052,
+        "y" : 40.44746250000005
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 182,
+        "Name" : "Pirallahi məscidi",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 50.333293100000056,
+        "y" : 40.458525900000055
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 183,
+        "Name" : "Hacı Məhəmməd Həsən bəy Məscidi",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 49.737739400000052,
+        "y" : 40.431677100000051
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 184,
+        "Name" : "Aaaf Park Məscid",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 49.722940500000057,
+        "y" : 40.457568000000052
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 185,
+        "Name" : "deqiqlesdirHəmize məscidi",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 49.783149800000054,
+        "y" : 40.525558000000053
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 186,
+        "Name" : "Əmbizlər Kənd Məscidi",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 49.058131700000054,
+        "y" : 40.790169900000052
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 187,
+        "Name" : "Mescid",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 49.398300100000057,
+        "y" : 40.78369120000005
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 188,
+        "Name" : "Siyəzən Rayonu Cümə məscidi",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 49.112625400000056,
+        "y" : 41.07385790000005
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 189,
+        "Name" : "Merkezi mescid",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 47.654636600000053,
+        "y" : 40.51096210000005
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 190,
+        "Name" : "Ucar Cümə Məscidi",
+        "Type" : "Məscid"
+      },
+      "geometry" : {
+        "x" : 47.652544900000052,
+        "y" : 40.513174500000055
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 191,
+        "Name" : "Maşın bazarında namaz otağı",
+        "Type" : "Namaz otağı"
+      },
+      "geometry" : {
+        "x" : 49.939525100000054,
+        "y" : 40.394486300000054
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 192,
+        "Name" : "Dəmiryol vağzalında namaz üçün sahə",
+        "Type" : "Namaz otağı"
+      },
+      "geometry" : {
+        "x" : 49.849267400000052,
+        "y" : 40.380252000000056
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 193,
+        "Name" : "Metro Park Namaz otağı",
+        "Type" : "Namaz otağı"
+      },
+      "geometry" : {
+        "x" : 49.872873500000054,
+        "y" : 40.40348530000005
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 194,
+        "Name" : "Dafne By Dalida namaz otağı",
+        "Type" : "Namaz otağı"
+      },
+      "geometry" : {
+        "x" : 49.842500000000051,
+        "y" : 40.373888900000054
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 195,
+        "Name" : "Xəqani Ticarət mərkəzi namaz otağı",
+        "Type" : "Namaz otağı"
+      },
+      "geometry" : {
+        "x" : 49.839652500000057,
+        "y" : 40.371986700000051
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 196,
+        "Name" : "28 mall Park Cinema tərəfdə namaz sahəsi",
+        "Type" : "Namaz otağı"
+      },
+      "geometry" : {
+        "x" : 49.847024500000053,
+        "y" : 40.379415300000055
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 197,
+        "Name" : "Namaz otağı (Mado)",
+        "Type" : "Namaz otağı"
+      },
+      "geometry" : {
+        "x" : 49.83842680000005,
+        "y" : 40.371937600000052
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 198,
+        "Name" : "Namaz otagi mado",
+        "Type" : "Namaz otağı"
+      },
+      "geometry" : {
+        "x" : 49.869459400000054,
+        "y" : 40.402467400000056
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 199,
+        "Name" : "Namaz otağı (Öz Urfa restoranı)",
+        "Type" : "Namaz otağı"
+      },
+      "geometry" : {
+        "x" : 49.863484900000053,
+        "y" : 40.410341900000056
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 200,
+        "Name" : "Namaz otağı",
+        "Type" : "Namaz otağı"
+      },
+      "geometry" : {
+        "x" : 49.805637800000056,
+        "y" : 40.431751300000052
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 201,
+        "Name" : "Namaz otağı (Biləcəri)",
+        "Type" : "Namaz otağı"
+      },
+      "geometry" : {
+        "x" : 49.807062700000053,
+        "y" : 40.436010200000055
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 202,
+        "Name" : "Namaz otağı (Velotrek)",
+        "Type" : "Namaz otağı"
+      },
+      "geometry" : {
+        "x" : 49.809192000000053,
+        "y" : 40.403758900000049
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 203,
+        "Name" : "Namaz otağı (Qızılgül restoranı)",
+        "Type" : "Namaz otağı"
+      },
+      "geometry" : {
+        "x" : 49.846676300000055,
+        "y" : 40.412237500000053
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 204,
+        "Name" : "Namaz otağı (Başkent restoran)",
+        "Type" : "Namaz otağı"
+      },
+      "geometry" : {
+        "x" : 49.81376110000005,
+        "y" : 40.406775000000053
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 205,
+        "Name" : "Namaz Otağı",
+        "Type" : "Namaz otağı"
+      },
+      "geometry" : {
+        "x" : 49.967100100000053,
+        "y" : 40.359113200000053
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 206,
+        "Name" : "Namaz otağı",
+        "Type" : "Namaz otağı"
+      },
+      "geometry" : {
+        "x" : 49.850352600000051,
+        "y" : 40.370932200000055
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 207,
+        "Name" : "AHLI SUNNA - NAMAZ",
+        "Type" : "Namaz otağı"
+      },
+      "geometry" : {
+        "x" : 49.528459700000056,
+        "y" : 40.653034300000051
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 208,
+        "Name" : "Gold palas şadlıq sarayı namaz otağı",
+        "Type" : "Namaz otağı"
+      },
+      "geometry" : {
+        "x" : 49.704193900000057,
+        "y" : 40.564457700000055
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 209,
+        "Name" : "Obed (50 qəpik) Restoran namaz otağı",
+        "Type" : "Namaz otağı"
+      },
+      "geometry" : {
+        "x" : 49.845219400000055,
+        "y" : 40.381099800000051
+      }
+    }
+  ]
