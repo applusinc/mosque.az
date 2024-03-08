@@ -1,6 +1,17 @@
 [
     {
       "attributes" : {
+        "OID" : 0,
+        "Name" : "+905313313131",
+        "Type" : "phone"
+      },
+      "geometry" : {
+        "x" : 1,
+        "y" : 1
+      }
+    },
+    {
+      "attributes" : {
         "OID" : 1,
         "Name" : "İmam Rza",
         "Type" : "Məscid"
